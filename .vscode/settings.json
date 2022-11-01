@@ -1,6 +1,10 @@
 {
     "files.associations": {
         "vector": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "deque": "cpp",
+        "algorithm": "cpp",
+        "string": "cpp",
+        "xstring": "cpp"
     }
 }
